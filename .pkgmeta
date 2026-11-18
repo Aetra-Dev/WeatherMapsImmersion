@@ -1,0 +1,14 @@
+package-as: WeatherMapsImmersion
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+ignore:
+  - .github
+  - .gitignore
+  - .pkgmeta
+  - art
+  - gallery
+  - tools
+  - docs

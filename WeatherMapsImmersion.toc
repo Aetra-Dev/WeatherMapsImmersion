@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: WeatherMaps: Immersion
+## Notes: Live snow, rain and sandstorm on your minimap and world map. Haze closes in as the storm builds.
+## Author: AetraDev
+## Version: 0.1.4
+## X-License: MIT
+## X-Website: https://github.com/Aetra-Dev/WeatherMapsImmersion
+## SavedVariables: WeatherMapsImmersionDB
+
+WeatherMapsImmersion.lua

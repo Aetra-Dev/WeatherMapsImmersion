@@ -1,0 +1,9 @@
+# build output and local junk
+*.zip
+.release/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+Thumbs.db
